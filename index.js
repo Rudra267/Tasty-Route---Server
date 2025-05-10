@@ -151,6 +151,3 @@ app.get("/login/sucess",async(req,res)=>{
 
 })
 
-app.listen(port,()=>{
-    console.log(`server start at port no : ${port}`);
-})
