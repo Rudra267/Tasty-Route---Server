@@ -151,3 +151,4 @@ app.get("/login/sucess",async(req,res)=>{
 
 })
 
+module.exports = app;
